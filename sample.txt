@@ -1,1 +1,8 @@
  welcome to world of coding!!!!!!
+
+Basic Concepts of Git
+1. Repository
+A repository is a storage space where your project’s files and the history of their changes are stored. A Git repository can exist locally on your machine or as a remote repository on a server like GitHub, GitLab, or Bitbucket.
+
+2. Commit
+A commit is like a snapshot of your repository at a specific point in time. Each commit records changes to the repo that describes what was changed and why and why. Commits from the history of your project.
