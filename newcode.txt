@@ -1,6 +1,0 @@
-all the branches have their own codebase
-<<<<<<< HEAD
-dragonjkddmast
-=======
-enter the drsagon
->>>>>>> c915f9863c3067837fc1783f72b8098f5754e605
